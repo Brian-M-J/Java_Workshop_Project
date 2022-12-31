@@ -8,4 +8,5 @@ After logging in, the user is presented with a user menu. The user can check his
 Booking a ride takes the number of kilometres to travel as input and calculates the charge based on the following criteria:
 - For the first 5 km, charge Rs. 25 per km
 - For every km after that, charge Rs. 35 per km
+
 Additionally, a surcharge is calculated based on the surcharge rate and added to the charge
